@@ -1,1 +1,1 @@
-# 02--RockPaperScissors
+# 02-RockPaperScissors
